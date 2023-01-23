@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Kachroo</h1>
 <h3 align="center">A passionate software developer studying Computer Engineering from University of Waterloo</h3>
+![Banner Image](https://github.com/abhinav-bohra/abhinav-bohra/raw/main/header.png)
+
 
 
 - 👨‍💻 All of my projects are available at [www.akshatkachroo.technology](www.akshatkachroo.technology)
