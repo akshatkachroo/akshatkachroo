@@ -18,8 +18,8 @@
 
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
-| Login and Registration system | Created a log in system |
-| Paragraph | Text |
+| Minesweeper | Created a log in system |
+| Paragraph | Text |  Languages |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
