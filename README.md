@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Akshat Kachroo</h1>
-<h3 align="center">A passionate software developer studying Computer Engineering from University of Waterloo</h3>
+<h3 align="center"> About: A passionate software developer studying Computer Engineering from University of Waterloo</h3>
 
 
 
