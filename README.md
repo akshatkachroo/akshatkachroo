@@ -4,17 +4,6 @@
 <h1 align="center">Hi 👋, I'm Akshat Kachroo</h1>
 <h3 align="center"> About: A passionate software developer studying Computer Engineering from University of Waterloo</h3>
 
-
-
-
-<h3 align="left">C  Final-year Computer Science & Engineering student at IIT Kharagpur.
-      C  Interested in Artificial Intelligence & Software Development.
-      C  Research Interests: Machine Learning, Deep Learning, NLP, Software Engineering
-      C  When not coding, I like to make EDM metal
-      C  If you are a Manchester United fan, we are already friends. GGMU :) heart
-      C  Here's more about my work experience in boring Arial font with font-size 12 (Resume)</h3>
-   
-
 - 👨‍💻 All of my projects are available at [www.akshatkachroo.technology](www.akshatkachroo.technology)
 
 - 📫 How to reach me **kachrooakshat@gmail.com**
