@@ -19,12 +19,12 @@
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
 | Minesweeper | Created a log in system |
-| Paragraph | Text |  Languages |
-| Paragraph | Text |  Languages |
-| Paragraph | Text |  Languages |
-| Paragraph | Text |  Languages |
-| Paragraph | Text |  Languages |
-| Paragraph | Text |  Languages |
+| Currency Conversion | Text |  Languages |
+| Checksum | Text |  Languages |
+| Login and Registration System | Text |  Languages |
+| ChatGPT | Text |  Languages |
+| Robotics | Text |  Languages |
+| Soil Moisture Sensor | Text |  Languages |
 | Paragraph | Text |  Languages |
 | Paragraph | Text |  Languages |
 
