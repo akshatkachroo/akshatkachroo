@@ -18,7 +18,7 @@
 
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
-| Minesweeper | Created a log in system |
+| Minesweeper | Created a text-based single player puzzle game with user-interface that challenges players to clear a minefield (grid of squares) without detonating any of the hidden mines. Additional features were added like a scoring system, the ability to customize the size of the grid, and a leaderboard to track high scores providing a fun and engaging experience for players of all skill levels.  | C++ |
 | Currency Conversion | Text |  Languages |
 | Checksum | Text |  Languages |
 | Login and Registration System | Text |  Languages |
