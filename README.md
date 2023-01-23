@@ -18,7 +18,7 @@
 
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
-| Minesweeper | Minesweeper is single player puzzle game that challenges players to clear a minefield without detonating any of the hidden mines. The game includes a user-interface, scoring system and grid size customization for easier navigation and entertaining experience.| C++ |
+| Minesweeper | Minesweeper is single player puzzle game that challenges players to clear a minefield without detonating any of the hidden mines. The game includes a user-interface, scoring system and grid size customization for easier navigation and entertaining player experience.| C++ |
 | Currency Conversion | Text |  Languages |
 | Checksum | Text |  Languages |
 | Login and Registration System | Text |  Languages |
