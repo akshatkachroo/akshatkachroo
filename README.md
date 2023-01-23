@@ -4,7 +4,10 @@
 <h1 align="center">Hi 👋, I'm Akshat Kachroo</h1>
 <h3 align="center"> About: A passionate software developer studying Computer Engineering from University of Waterloo</h3>
 
-- 👨‍💻 All of my projects are available at [www.akshatkachroo.technology](www.akshatkachroo.technology)
+Final-year Computer Science & Engineering student at IIT Kharagpur.
+Interested in Artificial Intelligence & Software Development.
+
+
 
 - 📫 How to reach me **kachrooakshat@gmail.com**
 
