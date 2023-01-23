@@ -20,6 +20,13 @@
 | ----------- | ----------- | ----------- |
 | Minesweeper | Created a log in system |
 | Paragraph | Text |  Languages |
+| Paragraph | Text |  Languages |
+| Paragraph | Text |  Languages |
+| Paragraph | Text |  Languages |
+| Paragraph | Text |  Languages |
+| Paragraph | Text |  Languages |
+| Paragraph | Text |  Languages |
+| Paragraph | Text |  Languages |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
