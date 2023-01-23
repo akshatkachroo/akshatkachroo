@@ -18,7 +18,7 @@
 
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
-| Minesweeper | This project is a text-based single player puzzle game that challenges players to clear a minefield without detonating any of the hidden mines. The game includes a user-interface that makes it easy for players to navigate and interact with the game. Additional features were added to enhance the gameplay such as a scoring system and the ability to customize the size of the grid providing a fun and engaging experience for players of all skill levels.  | C++ |
+| Minesweeper | This project is a text-based single player puzzle game that challenges players to clear a minefield without detonating any of the hidden mines. The game includes a user-interface, scoring system and grid size customization for easier navigation and entertaining experience.| C++ |
 | Currency Conversion | Text |  Languages |
 | Checksum | Text |  Languages |
 | Login and Registration System | Text |  Languages |
