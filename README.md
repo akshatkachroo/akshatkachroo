@@ -19,11 +19,11 @@
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
 | [Minesweeper](https://github.com/akshatkachroo/University-Projects/blob/main/minesweeper.cpp) | Minesweeper is single player puzzle game that challenges players to clear a minefield without detonating any of the hidden mines. The game includes a user-interface, scoring system and grid size customization for easier navigation and entertaining player experience.| C++ |
-| Currency Conversion | Text |  Languages |
+| [Currency Conversion](https://github.com/akshatkachroo/University-Projects/blob/main/currency_conversion.cpp) | Text |  Languages |
 | [Checksum](https://github.com/akshatkachroo/University-Projects/blob/main/checksum.cpp) | Text |  Languages |
-| Login and Registration System | Text |  Languages |
+| [Login and Registration System](https://github.com/akshatkachroo/Side-Projects/blob/main/Login%20and%20Registration%20System.cpp) | Text |  Languages |
 | ChatGPT | Text |  Languages |
-| Robotics | Text |  Languages |
+| [Robotics](https://github.com/akshatkachroo/Robotics) | Text |  Languages |
 | Soil Moisture Sensor | Text |  Languages |
 | Paragraph | Text |  Languages |
 | Paragraph | Text |  Languages |
