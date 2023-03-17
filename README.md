@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Akshat Kachroo</h1>
 
 - 🏢 First-year Computer Engineering student at University of Waterloo.
-- 🧠 Interested in Artificial Intelligence & Software Development.
-- 🎸 When not coding, I like to play the guitar.
 - 📄 Here's more about my work experience in boring Arial font with font-size 12 (Resume)
 - 📫 How to reach me: 
   -  Email: kachrooakshat@gmail.com
