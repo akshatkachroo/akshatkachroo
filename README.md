@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Kachroo</h1>
 
 - 🏢 First-year Computer Engineering student at University of Waterloo.
-- 📄 Here's more about my work experience in boring Arial font with font-size 12 (Resume)
+- 📄 Here's more about my work experience:
 - 📫 How to reach me: 
   -  Email: kachrooakshat@gmail.com
   -  Phone number: +1 226-752-4570
