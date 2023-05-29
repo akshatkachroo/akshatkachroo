@@ -17,7 +17,7 @@
 | ----------- | ----------- | ----------- |
 | [Minesweeper](https://github.com/akshatkachroo/Minesweeper) | Minesweeper is single player puzzle game that challenges players to clear a minefield without detonating any of the hidden mines. The game includes a user-interface, scoring system and grid size customization for easier navigation and entertaining player experience.| C++ |
 | [ID Card Validator](https://github.com/akshatkachroo/Waterloo-ID-Card-Validator) |  |  C++ |
-| [](https://github.com/akshatkachroo/University-Projects/blob/main/checksum.cpp) |  |  Languages |
+| [](https://github.com/akshatkachroo/University-Projects/blob/main/checksum.cpp) |  |  C++ |
 | [Login and Registration System](https://github.com/akshatkachroo/Side-Projects/blob/main/Login%20and%20Registration%20System.cpp) |  |  C++ |
 | [ChatGPT](https://github.com/akshatkachroo/ChatGPT) |  |  JavaScript, HTML, CSS |
 | [Robotics](https://github.com/akshatkachroo/Robotics) |  |  C++ |
