@@ -16,14 +16,14 @@
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
 | [Minesweeper](https://github.com/akshatkachroo/Minesweeper) | Minesweeper is single player puzzle game that challenges players to clear a minefield without detonating any of the hidden mines. The game includes a user-interface, scoring system and grid size customization for easier navigation and entertaining player experience.| C++ |
-| [ID Card Validator](https://github.com/akshatkachroo/Waterloo-ID-Card-Validator) | Text |  C++ |
-| [](https://github.com/akshatkachroo/University-Projects/blob/main/checksum.cpp) | Text |  Languages |
-| [Login and Registration System](https://github.com/akshatkachroo/Side-Projects/blob/main/Login%20and%20Registration%20System.cpp) | Text |  C++ |
-| [ChatGPT](https://github.com/akshatkachroo/ChatGPT) | Text |  JavaScript, HTML, CSS |
-| [Robotics](https://github.com/akshatkachroo/Robotics) | Text |  C++ |
-| [Soil Moisture Sensor] (https://github.com/akshatkachroo/Soil-Moisture-Sensor) | Text |  C |
-| [Commodity Trading Algorithm (IMC)] (https://github.com/akshatkachroo/Trading-Algorithm) | Text |  Python |
-| [Cookie Viewer] (https://github.com/akshatkachroo/Trial) | Text |  JavaScript, Python, HTML, CSS |
+| [ID Card Validator](https://github.com/akshatkachroo/Waterloo-ID-Card-Validator) |  |  C++ |
+| [](https://github.com/akshatkachroo/University-Projects/blob/main/checksum.cpp) |  |  Languages |
+| [Login and Registration System](https://github.com/akshatkachroo/Side-Projects/blob/main/Login%20and%20Registration%20System.cpp) |  |  C++ |
+| [ChatGPT](https://github.com/akshatkachroo/ChatGPT) |  |  JavaScript, HTML, CSS |
+| [Robotics](https://github.com/akshatkachroo/Robotics) |  |  C++ |
+| [Soil Moisture Sensor] (https://github.com/akshatkachroo/Soil-Moisture-Sensor) |  |  C |
+| [Commodity Trading Algorithm (IMC)] (https://github.com/akshatkachroo/Trading-Algorithm) |  |  Python |
+| [Cookie Viewer] (https://github.com/akshatkachroo/Trial) |  |  JavaScript, Python, HTML, CSS |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
