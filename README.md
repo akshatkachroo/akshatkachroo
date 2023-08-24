@@ -9,7 +9,7 @@
 
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
-| [Minesweeper](https://github.com/akshatkachroo/Minesweeper) | Minesweeper is single player puzzle game that challenges players to clear a minefield without detonating any of the hidden mines. The game includes a user-interface, scoring system and grid size customization for easier navigation and entertaining player experience.| C++ |
+| [Minesweeper](https://github.com/akshatkachroo/Minesweeper) | Minesweeper is single-player puzzle game that challenges players to clear a minefield without detonating any of the hidden mines. The game includes a user interface, scoring system, and grid size customization for easier navigation and an entertaining player experience.| C++ |
 | [ID Card Validator](https://github.com/akshatkachroo/Waterloo-ID-Card-Validator) |  |  C++ |
 | [](https://github.com/akshatkachroo/University-Projects/blob/main/checksum.cpp) |  |  C++ |
 | [Login and Registration System](https://github.com/akshatkachroo/Side-Projects/blob/main/Login%20and%20Registration%20System.cpp) |  |  C++ |
@@ -17,7 +17,9 @@
 | [Robotics](https://github.com/akshatkachroo/Robotics) |  |  C++ |
 | [Soil Moisture Sensor] (https://github.com/akshatkachroo/Soil-Moisture-Sensor) |  |  C |
 | [Commodity Trading Algorithm (IMC)] (https://github.com/akshatkachroo/Trading-Algorithm) |  |  Python |
-| [Cookie Viewer] (https://github.com/akshatkachroo/Trial) |  |  JavaScript, Python, HTML, CSS |
+| [Cookie Viewer](https://github.com/akshatkachroo/Trial) |  |  JavaScript, Python, HTML, CSS |
+| [HVAC Controller](https://github.com/akshatkachroo/HVAC-Controller) | This digital design project utilizes VHDL to implement an energy-efficient hardware system that manages and automates the temperature regulation and ventilation functions of an HVAC system. |  VHDL |
+| [Traffic Lights Controller](https://github.com/akshatkachroo/Traffic-Lights-Controller) | This digital design project utilizes VHDL to create a hardware-based solution that simulates and manages the timing and coordination of traffic lights, ensuring smooth and safe traffic flow. |  VHDL |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
