@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat Kachroo</h1>
+<h1 align="left">Hi 👋, I'm Akshat Kachroo</h1>
 
 - 🏢 First-year Computer Engineering student at University of Waterloo.
 - 📄 Here's more about my work experience:
