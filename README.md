@@ -16,7 +16,7 @@
 | [ChatGPT](https://github.com/akshatkachroo/ChatGPT) |  |  JavaScript, HTML, CSS |
 | [Robotics](https://github.com/akshatkachroo/Robotics) |  |  C++ |
 | [Soil Moisture Sensor](https://github.com/akshatkachroo/Soil-Moisture-Sensor) |  |  C |
-| [Commodity Trading Algorithm (IMC)](https://github.com/akshatkachroo/Trading-Algorithm) |  |  Python |
+| [Commodity Trading Algorithm](https://github.com/akshatkachroo/Trading-Algorithm) |  |  Python |
 | [Cookie Viewer](https://github.com/akshatkachroo/Trial) |  |  JavaScript, Python, HTML, CSS |
 | [HVAC Controller](https://github.com/akshatkachroo/HVAC-Controller) | This digital design project utilizes VHDL to implement an energy-efficient hardware system that manages and automates the temperature regulation and ventilation functions of an HVAC system. |  VHDL |
 | [Traffic Lights Controller](https://github.com/akshatkachroo/Traffic-Lights-Controller) | This digital design project utilizes VHDL to create a hardware-based solution that simulates and manages the timing and coordination of traffic lights, ensuring smooth and safe traffic flow. |  VHDL |
