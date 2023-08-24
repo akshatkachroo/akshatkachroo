@@ -1,5 +1,3 @@
-![Banner Image](https://github.com/abhinav-bohra/abhinav-bohra/raw/main/header.png)
-
 <h1 align="center">Hi 👋, I'm Akshat Kachroo</h1>
 
 - 🏢 First-year Computer Engineering student at University of Waterloo.
