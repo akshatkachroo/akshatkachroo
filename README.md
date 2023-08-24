@@ -1,7 +1,6 @@
 <h1 align="left"> 👋 Hey, I'm Akshat Kachroo</h1>
 
-- 🏢 First-year Computer Engineering student at University of Waterloo.
-- 📄 Here's more about my work experience:
+- 🏢 I'm a Computer Engineering student at the University of Waterloo.
 - 📫 How to reach me: 
   -  Email: kachrooakshat@gmail.com
   -  Phone number: +1 226-752-4570
