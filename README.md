@@ -9,7 +9,7 @@
 
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
-| [Cookie Viewer](https://github.com/akshatkachroo/Trial) |A full-stack web application that provides website cookie information by leveraging the backend RESTful Flask API and http.cookiejar library; dedicated to enhancing privacy awareness.|  HTML, CSS, JavaSctipt, Python |
+| [Cookie Viewer](https://github.com/akshatkachroo/Trial) |A full-stack web application that provides website cookie information by leveraging the backend RESTful Flask API and http.cookiejar library; dedicated to enhancing privacy awareness.|  HTML, CSS, JavaScript, Python |
 | [Conversational AI](https://github.com/akshatkachroo/ChatGPT) |A full-stack web application with integrated OpenAI API to create a chatbot. |  HTML, CSS, JavaScript |
 | [ID Card Validator](https://github.com/akshatkachroo/Waterloo-ID-Card-Validator) |A program designed to validate University of Waterloo ID card numbers through the implementation of a checksum algorithm.|  C++ |
 | [Mo-Money](https://github.com/akshatkachroo/Mo-Money) |Computes the Adjusted Cost Base (ACB), capital gains, and losses for users' exchange-traded funds (ETFs) in compliance with the requirements of the Canadian Revenue Agency (CRA).|  C++ |
