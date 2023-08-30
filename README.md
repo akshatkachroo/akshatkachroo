@@ -10,7 +10,7 @@
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
 | [Minesweeper](https://github.com/akshatkachroo/Minesweeper) | A single-player puzzle game that challenges players to clear a minefield without detonating any of the hidden mines. | C++ |
-| [ID Card Validator](https://github.com/akshatkachroo/Waterloo-ID-Card-Validator) |A software project designed to validate University of Waterloo ID card numbers through the implementation of a checksum algorithm.|  C++ |
+| [ID Card Validator](https://github.com/akshatkachroo/Waterloo-ID-Card-Validator) |A program designed to validate University of Waterloo ID card numbers through the implementation of a checksum algorithm.|  C++ |
 | [](https://github.com/akshatkachroo/University-Projects/blob/main/checksum.cpp) |  |  C++ |
 | [Login and Registration System](https://github.com/akshatkachroo/Side-Projects/blob/main/Login%20and%20Registration%20System.cpp) |  |  C++ |
 | [ChatGPT](https://github.com/akshatkachroo/ChatGPT) |  |  JavaScript, HTML, CSS |
