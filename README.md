@@ -18,8 +18,8 @@
 | [Soil Moisture Sensor](https://github.com/akshatkachroo/Soil-Moisture-Sensor) |  |  C |
 | [Commodity Trading Algorithm](https://github.com/akshatkachroo/Trading-Algorithm) |  |  Python |
 | [Cookie Viewer](https://github.com/akshatkachroo/Trial) |  |  JavaScript, Python, HTML, CSS |
-| [HVAC Controller](https://github.com/akshatkachroo/HVAC-Controller) | This digital design project utilizes VHDL to implement an energy-efficient hardware system that manages and automates the temperature regulation and ventilation functions of an HVAC system. |  VHDL |
-| [Traffic Lights Controller](https://github.com/akshatkachroo/Traffic-Lights-Controller) | This digital design project utilizes VHDL to create a hardware-based solution that simulates and manages the timing and coordination of traffic lights, ensuring smooth and safe traffic flow. |  VHDL |
+| [HVAC Controller](https://github.com/akshatkachroo/HVAC-Controller) | This digital design project implements an energy-efficient hardware system that manages and automates the temperature regulation and ventilation functions of an HVAC system. |  VHDL |
+| [Traffic Lights Controller](https://github.com/akshatkachroo/Traffic-Lights-Controller) | This digital design project creates a hardware-based solution that simulates and manages the timing and coordination of traffic lights, ensuring smooth and safe traffic flow. |  VHDL |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
