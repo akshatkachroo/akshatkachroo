@@ -1,4 +1,4 @@
-![image](https://github.com/akshatkachroo/akshatkachroo/assets/103561036/583b9634-396f-485f-b57d-44fb0f09ae8c)<h1 align="left"> 👋 Hey, I'm Akshat Kachroo</h1>
+<h1 align="left"> 👋 Hey, I'm Akshat Kachroo</h1>
 
 - 🏢 I'm a Computer Engineering student at the University of Waterloo.
 - 📫 How to reach me: 
