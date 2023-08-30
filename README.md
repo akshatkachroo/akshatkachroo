@@ -11,8 +11,8 @@
 | ----------- | ----------- | ----------- |
 | [Minesweeper](https://github.com/akshatkachroo/Minesweeper) | A single-player puzzle game that challenges players to clear a minefield without detonating any of the hidden mines. | C++ |
 | [ID Card Validator](https://github.com/akshatkachroo/Waterloo-ID-Card-Validator) |A program designed to validate University of Waterloo ID card numbers through the implementation of a checksum algorithm.|  C++ |
-| [Mo-Money](https://github.com/akshatkachroo/University-Projects/blob/main/checksum.cpp) |Computes the the Adjusted Cost Base (ACB), capital gains, and losses for users' exchange-traded funds (ETFs) in compliance with the requirements of the Canadian Revenue Agency (CRA).|  C++ |
-| [Login and Registration System](https://github.com/akshatkachroo/Side-Projects/blob/main/Login%20and%20Registration%20System.cpp) |This project provides an efficient user login and creates a secure registration process.|  C++ |
+| [Mo-Money](https://github.com/akshatkachroo/Mo-Money) |Computes the Adjusted Cost Base (ACB), capital gains, and losses for users' exchange-traded funds (ETFs) in compliance with the requirements of the Canadian Revenue Agency (CRA).|  C++ |
+| [Login and Registration System](https://github.com/akshatkachroo/Login-Registration-System) |This project provides an efficient user login and creates a secure registration process.|  C++ |
 | [ChatGPT](https://github.com/akshatkachroo/ChatGPT) |A full-stack web application with integrated OpenAI API to create a chatbot. |  HTML, CSS, JavaScript |
 | [Robotics](https://github.com/akshatkachroo/Robotics) |4-motor drive with Integrated ultrasonic sensors to automate the vehicle.|  C++ |
 | [Soil Moisture Sensor](https://github.com/akshatkachroo/Soil-Moisture-Sensor) |Manufactured and Programmed an STM32 Nucleo-64 real-time soil moisture monitoring device with integrated LCD display capability.|  C |
