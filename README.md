@@ -3,7 +3,6 @@
 - 🏢 I'm a Computer Engineering student at the University of Waterloo.
 - 📫 How to reach me: 
   -  Email: kachrooakshat@gmail.com
-  -  Phone number: +1 226-752-4570
 
 <h3 align="left">👨‍💻 My Work:</h3>
 
