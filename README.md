@@ -30,7 +30,13 @@
 | Project Description | Languages |
 |---|---|
 | [Minimalistic-C](https://github.com/Chai112/MinC-Compiler) - my programming language and x86 compiler, inspired by C. Made to introduce beginners to low level coding by using a minimalistic featureset. | C, x86, **Minimalistic&#160;C** |
-| [Chess AI](https://github.com/chaidhat/chess-ai) - training convolutional neural networks to play chess | Tensorflow |
+| [ID Card Validator](https://github.com/akshatkachroo/Waterloo-ID-Card-Validator) - my programming language and x86 compiler, inspired by C. Made to introduce beginners to low level coding by using a minimalistic featureset. | C, x86, **Minimalistic&#160;C** |
+| [Mo-Money](https://github.com/akshatkachroo/Mo-Money) - my programming language and x86 compiler, inspired by C. Made to introduce beginners to low level coding by using a minimalistic featureset. | C, x86, **Minimalistic&#160;C** |
+| [Minesweeper](https://github.com/akshatkachroo/Minesweeper) - my programming language and x86 compiler, inspired by C. Made to introduce beginners to low level coding by using a minimalistic featureset. | C, x86, **Minimalistic&#160;C** |
+| [Robotics](https://github.com/akshatkachroo/Robotics) - training convolutional neural networks to play chess | Tensorflow |
+| [Soil Moisture Sensor](https://github.com/akshatkachroo/Soil-Moisture-Sensor) - my programming language and x86 compiler, inspired by C. Made to introduce beginners to low level coding by using a minimalistic featureset. | C, x86, **Minimalistic&#160;C** |
+| [HVAC Controller](https://github.com/akshatkachroo/HVAC-Controller) - my programming language and x86 compiler, inspired by C. Made to introduce beginners to low level coding by using a minimalistic featureset. | C, x86, **Minimalistic&#160;C** |
+| [Traffic Lights Controller](https://github.com/akshatkachroo/Traffic-Lights-Controller) - my programming language and x86 compiler, inspired by C. Made to introduce beginners to low level coding by using a minimalistic featureset. | C, x86, **Minimalistic&#160;C** |
 | [Wave Interference Simulation](https://chaidhat.github.io/Chaidhat/slits-experiment/) - online single/double/etc slit experiment simulator | JavaScript |
 | [Simulation of a A320 Flight Managment System](https://github.com/JonathanOrr/A321Neo-FXPL) - for an international team project | Lua |
 | [Facial Identification](https://github.com/Chai112/AIFRED) - implementing Viola-Jones cascading features algorithm | C++, GLSL |
