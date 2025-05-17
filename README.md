@@ -25,14 +25,16 @@
   
 | Project Description | Languages |
 |---|---|
-| [ID Card Validator](https://github.com/akshatkachroo/Waterloo-ID-Card-Validator) - A program designed to validate University of Waterloo ID card numbers through the implementation of a checksum algorithm. | C++ |
 | [Mo-Money](https://github.com/akshatkachroo/Mo-Money) - Computes the Adjusted Cost Base (ACB), capital gains, and losses for users' exchange-traded funds (ETFs) in compliance with the requirements of the Canadian Revenue Agency (CRA). | C++ |
 | [Minesweeper](https://github.com/akshatkachroo/Minesweeper) - A single-player puzzle game that challenges players to clear a minefield without detonating any of the hidden mines. | C++ |
+| [ID Card Validator](https://github.com/akshatkachroo/Water-Reservoir-System) - A program designed to validate University of Waterloo ID card numbers through the implementation of a checksum algorithm. | C++ |
+| [Water Reservoir System](https://github.com/akshatkachroo/Water-Reservoir-System) - A system designed using an STM32 microcontroller to automate water reservoir management, utilizing C++ for real-time control of PWM motors and servo valves based on input from ultrasonic and rotary sensors, with UART communication and RGB LED indicators for state feedback. | C++ |
+| [Soil Moisture Sensor](https://github.com/akshatkachroo/Soil-Moisture-Sensor) - Manufactured and Programmed an STM32 Nucleo-64 real-time soil moisture monitoring device with integrated LCD display capability. | C++ |
 | [Robotics](https://github.com/akshatkachroo/Robotics) - 4-motor drive with Integrated ultrasonic sensors to automate the vehicle. | Python, C++ |
-| [Soil Moisture Sensor](https://github.com/akshatkachroo/Soil-Moisture-Sensor) - Manufactured and Programmed an STM32 Nucleo-64 real-time soil moisture monitoring device with integrated LCD display capability. | C |
+| [Audio Player](https://github.com/akshatkachroo/Audio-Player) - An embedded .wav audio player using MicroSD input and headphone jack output, with LCD displaying track info and real-time playback states (STOPPED, PAUSED, speed/mono modes). | C |
+| [ARM Reflex & LED Controller](https://github.com/akshatkachroo/ECE222-Digital-Computers-Labs) - Implements LED flashing, Morse code transmission, reflex measurement, and interrupt-driven I/O using ARM assembly. | ARM Assembly |
 | [HVAC Controller](https://github.com/akshatkachroo/HVAC-Controller) - This digital design project implements an energy-efficient hardware system that manages and automates the temperature regulation and ventilation functions of an HVAC system. | VHDL |
 | [Traffic Lights Controller](https://github.com/akshatkachroo/Traffic-Lights-Controller) - This digital design project creates a hardware-based solution that simulates and manages the timing and coordination of traffic lights, ensuring smooth and safe traffic flow. | VHDL |
-| [ARM Reflex & LED Controller](https://github.com/akshatkachroo/Traffic-Lights-Controller) - Implements LED flashing, Morse code transmission, reflex measurement, and interrupt-driven I/O using ARM assembly | ARM Assembly |
 
 
 <h3 align="left">Connect with me:</h3>
