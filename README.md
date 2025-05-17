@@ -3,6 +3,10 @@
 - 🏢 I'm a Computer Engineering student at the University of Waterloo.
 - 📫 How to reach me: 
   -  Email: kachrooakshat@gmail.com
+  -  LinkedIn: https://www.linkedin.com/in/akshat-kachroo/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am townhall level 13 on Clash of Clans
+
 
 <h3 align="left">👨‍💻 My Work:</h3>
 
