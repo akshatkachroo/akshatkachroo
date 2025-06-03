@@ -12,6 +12,7 @@
 
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
+| [SpotiSense](https://github.com/akshatkachroo/SpotiSense) | SpotiSense is a machine learning based music recommendation system that provides personalized song suggestions based on user preferences and emotional context. |  Python |
 | [PagePatrol](https://github.com/akshatkachroo/PagePatrol) |A Python web app that scans web pages for accessibility issues in accordance to the ADA (Americans with Disabilities Act) and generates actionable WCAG compliance reports. |  Python, NoSQL |
 | [RepoPilot](https://github.com/akshatkachroo/RepoPilot) | A CLI tool and webhook server that automates GitHub issue tracking, PR management, and team collaboration workflows | JavaScript|
 | [Cookie Viewer](https://github.com/akshatkachroo/Trial) |A full-stack web application that provides website cookie information by leveraging the backend RESTful Flask API and http.cookiejar library; dedicated to enhancing privacy awareness.| JavaScript, Python |
