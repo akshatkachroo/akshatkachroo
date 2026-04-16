@@ -15,7 +15,7 @@
 | [PagePatrol](https://github.com/akshatkachroo/PagePatrol) | A Spring Boot accessibility auditing platform that uses Playwright and Axe-core to scan web pages, track WCAG issues, and surface privacy and cookie findings. | Java, Spring Boot, PostgreSQL, Redis |
 | [RepoPilot](https://github.com/akshatkachroo/RepoPilot) | A Go automation service that processes GitHub webhooks to streamline issue and pull request workflows and send team updates to Slack. | Go, Docker | | [Cookie Viewer](https://github.com/akshatkachroo/Trial) |A full-stack web application that provides website cookie information by leveraging the backend RESTful Flask API and http.cookiejar library; dedicated to enhancing privacy awareness.| JavaScript, Python |
 | [Conversational AI](https://github.com/akshatkachroo/ChatGPT) |A full-stack web application with integrated OpenAI API to create a chatbot. | JavaScript |
-| [Commodity Trading Algorithm](https://github.com/akshatkachroo/Trading-Algorithm) |An automated commodity trading algorithm that utilizes libraries: NumPy & Pandas for efficient computation of data analysis and manipulation.|  Python |
+| [Trading Algorithm](https://github.com/akshatkachroo/Trading-Algorithm) |An automated commodity trading algorithm that utilizes libraries: NumPy & Pandas for efficient computation of data analysis and manipulation.|  Python |
 
 
 
