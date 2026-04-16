@@ -4,7 +4,6 @@
 - 📫 How to reach me: 
   -  Email: kachrooakshat@gmail.com
   -  LinkedIn: https://www.linkedin.com/in/akshat-kachroo/
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am townhall level 13 on Clash of Clans
 
 
@@ -12,10 +11,9 @@
 
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
-| [SpotiSense](https://github.com/akshatkachroo/SpotiSense) | SpotiSense is a machine learning based music recommendation system that provides personalized song suggestions based on user preferences and emotional context. |  Python |
-| [PagePatrol](https://github.com/akshatkachroo/PagePatrol) |A Python web app that scans web pages for accessibility issues in accordance to the ADA (Americans with Disabilities Act) and generates actionable WCAG compliance reports. |  Python, NoSQL |
-| [RepoPilot](https://github.com/akshatkachroo/RepoPilot) | A CLI tool and webhook server that automates GitHub issue tracking, PR management, and team collaboration workflows | JavaScript|
-| [Cookie Viewer](https://github.com/akshatkachroo/Trial) |A full-stack web application that provides website cookie information by leveraging the backend RESTful Flask API and http.cookiejar library; dedicated to enhancing privacy awareness.| JavaScript, Python |
+| [SpotiSense](https://github.com/akshatkachroo/SpotiSense) | SpotiSense is a machine learning music recommendation system that provides personalized song suggestions based on user preferences and emotional context. |  Python |
+| [PagePatrol](https://github.com/akshatkachroo/PagePatrol) | A Spring Boot accessibility auditing platform that uses Playwright and Axe-core to scan web pages, track WCAG issues, and surface privacy and cookie findings. | Java, Spring Boot, PostgreSQL, Redis |
+| [RepoPilot](https://github.com/akshatkachroo/RepoPilot) | A Go automation service that processes GitHub webhooks to streamline issue and pull request workflows and send team updates to Slack. | Go, Docker | | [Cookie Viewer](https://github.com/akshatkachroo/Trial) |A full-stack web application that provides website cookie information by leveraging the backend RESTful Flask API and http.cookiejar library; dedicated to enhancing privacy awareness.| JavaScript, Python |
 | [Conversational AI](https://github.com/akshatkachroo/ChatGPT) |A full-stack web application with integrated OpenAI API to create a chatbot. | JavaScript |
 | [Commodity Trading Algorithm](https://github.com/akshatkachroo/Trading-Algorithm) |An automated commodity trading algorithm that utilizes libraries: NumPy & Pandas for efficient computation of data analysis and manipulation.|  Python |
 
